@@ -1,0 +1,52 @@
+/* تنسيق الصفحة بشكل عام */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* تنسيق العنوان في الهيدر */
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+/* تنسيق الأقسام */
+section {
+    padding: 20px;
+    margin: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* تنسيق العناوين الفرعية */
+h2 {
+    color: #4CAF50;
+}
+
+/* تنسيق الفقرات */
+p {
+    line-height: 1.6;
+}
+
+/* تنسيق القوائم */
+ul {
+    list-style-type: square;
+    padding-left: 20px;
+}
+
+/* تنسيق الفوتر */
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
